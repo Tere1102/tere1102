@@ -4,7 +4,7 @@
 
 <h2> Hi, I'm Teresa Arranz!👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Full Stack Web Developer at <a href="https://www.ironhack.com/es">Ironhack</a><img src="#" width="30">
+<p><em>Full Stack Developer at <a href="https://www.ironhack.com/es">Ironhack</a><img src="#" width="30">
 </em></p>
 
 [![Linkedin: teresaarranzcarrasco](https://img.shields.io/badge/-teresaarranz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teresa-arranz-carrasco/)](https://www.linkedin.com/in/teresa-arranz-carrasco/)
