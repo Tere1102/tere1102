@@ -1,3 +1,7 @@
+
+![Teresa Arranz carrasco](https://res.cloudinary.com/dxfey6stw/image/upload/v1716228391/ymn10fz1h1gcnne5wcf1.png)
+
+
 <h2> Hi, I'm Teresa Arranz!👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>Full Stack Web Developer at <a href="https://www.ironhack.com/es">Ironhack</a><img src="#" width="30">
