@@ -1,6 +1,5 @@
 <h2> Hi, I'm Teresa Arranz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full Stack Web Developer at <a href="https://www.ironhack.com/es">Ironhack</a><img src="#" width="30">
 </em></p>
 
